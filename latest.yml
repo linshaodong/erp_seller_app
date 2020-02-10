@@ -1,0 +1,8 @@
+version: 2.0.0
+files:
+  - url: erp-2.0.0.exe
+    sha512: Z5/ofYZDhCnbNlJOSlhicNYpjaNuxMIcZB1NKkoyQ4ZhcCUOSQh2S2PVop0nYvAwFv9lbNxHCJSpLUIfpqLhHQ==
+    size: 37442414
+path: erp-2.0.0.exe
+sha512: Z5/ofYZDhCnbNlJOSlhicNYpjaNuxMIcZB1NKkoyQ4ZhcCUOSQh2S2PVop0nYvAwFv9lbNxHCJSpLUIfpqLhHQ==
+releaseDate: '2020-02-10T04:47:02.196Z'
